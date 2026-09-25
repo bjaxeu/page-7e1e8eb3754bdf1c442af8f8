@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.yqn8id.cn/sitemap.xml
